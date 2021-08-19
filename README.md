@@ -36,3 +36,5 @@ The overarching objectives and related deliverables for this analysis are the fo
 
 **Summary:**
 Findings of this analysis suggests that the impact of employee retirment is large in volume and the number of eligible employees for mentorship program is relatively small. Therefor, Pewlett-Hackard should look into diffren strategies to manage Silver Tsunami. One approach could be creating programs by phases based on the date of retirement (below is the breakdown of retiress by year of birth). Certainly, Pewlett-Hackard should look into acquiring new talents specially for more junior positions like staff and assistant engineer.
+
+![](images/yearly_retirment.png)
