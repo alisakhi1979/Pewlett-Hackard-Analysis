@@ -20,7 +20,9 @@ The overarching objectives and related deliverables for this analysis are the fo
 **Hewlett-Hackard outputs:**
     
 1. Count of Retirees by role
-2. Count of eligibile employees for mentorship program
+![](images/retirement.png)
+3. Count of eligibile employees for mentorship program
+![](images/mentorship.png)
 
 **Results:**
 
